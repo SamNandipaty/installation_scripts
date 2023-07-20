@@ -3,7 +3,7 @@
 
 sudo apt-get update -y
 
-sudo apt-get install curl wget apt-transport-https virtualbox virtualbox-ext-pack -y
+//sudo apt-get install curl wget apt-transport-https virtualbox virtualbox-ext-pack -y
 
 echo "1st install docker"
 
